@@ -3,8 +3,8 @@ The reports/assignments and summery/recap made by Tim Heiszwolf for the TU/e cou
 
 The grades for the assignments were:
 
-- Assignment 1: Not Yet Annouced
-- Assignment 2: Not Yet Annouced
+- Assignment 1: 8
+- Assignment 2: 8.5
 
 I hope this is usefull for anybody also doing the course, so that you can see what I did right (and wrong).
 
