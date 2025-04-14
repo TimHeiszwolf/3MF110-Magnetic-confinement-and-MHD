@@ -1,5 +1,7 @@
 # 3MF110-Magnetic-confinement-and-MHD
-The reports/assignments and summery/recap made by Tim Heiszwolf for the TU/e course "3MF110 Magnetic confinement and MHD of fusion plasmas" during Q2 2024-2024.
+The reports/assignments and a (incomplete) summery/recap made by Tim Heiszwolf for the TU/e course "3MF110 Magnetic confinement and MHD of fusion plasmas" during Q2 2024-2024.
+
+It should be noted that the summery/recap is not fully completed, thus I have also included the latex file so that you can complete it yourself if you want. Feel free to do so and upload it to the internet but please do link back to this Github page and sent me a message so that I can link to it myself.
 
 The grades for the assignments were:
 
